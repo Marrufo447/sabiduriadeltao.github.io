@@ -1,6 +1,11 @@
 {
   "videos": [
     {
+      "id": "WAsPb6-Sgw8",
+      "title": "El Arte de Soltar y No Sufrir : Sabiduría Tao",
+      "date": "2026-11-19T15:15:52+00:00"
+    },
+    {
       "id": "kNg7iyQa_6M",
       "title": "Deja de Pensar Tanto: La Enseñanza del Taoísmo para Recuperar la Paz Mental",
       "date": "2026-11-17T15:10:48+00:00"
@@ -39,11 +44,6 @@
       "id": "O_YbTxrtmrw",
       "title": "El Arte de Esperar Sin Ansiedad : La Sabiduría Del Tao",
       "date": "2026-11-05T14:00:12+00:00"
-    },
-    {
-      "id": "U_gtsliEAck",
-      "title": "El Arte de Hablar Menos y Decir Más : La Sabiduría Del Tao",
-      "date": "2026-11-02T14:00:09+00:00"
     }
   ]
 }
