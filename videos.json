@@ -1,6 +1,11 @@
 {
   "videos": [
     {
+      "id": "1W8OcXSXKaI",
+      "title": "El Arte de Tener Paciencia Sin Sentir Que Pierdes el Tiempo : La Sabiduría Del Tao",
+      "date": "2026-11-22T12:00:01+00:00"
+    },
+    {
       "id": "WAsPb6-Sgw8",
       "title": "El Arte de Soltar y No Sufrir : Sabiduría Tao",
       "date": "2026-11-19T15:15:52+00:00"
@@ -39,11 +44,6 @@
       "id": "FBTMsoFUClI",
       "title": "NO REACCIONES ANTE LAS PROVOCACIONES: El Secreto del Tao para Mantener la Calma",
       "date": "2026-11-08T14:00:36+00:00"
-    },
-    {
-      "id": "O_YbTxrtmrw",
-      "title": "El Arte de Esperar Sin Ansiedad : La Sabiduría Del Tao",
-      "date": "2026-11-05T14:00:12+00:00"
     }
   ]
 }
